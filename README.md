@@ -1,2 +1,2 @@
 # Proyecto-1-Integrador
-BBDD en SQLServer, ejecutarlo el archivo sql
+BBDD en SQLServer, ejecutar el archivo sql y verificar las credenciales para conectarse por autentificacón sql en SQLServer
